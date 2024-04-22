@@ -10,5 +10,5 @@ The official solution is in pa1_solution.py
 
 ## How to run?
 
-1. Upload pa1_sentiment_analysis_knn.ipynb and other .npy files, .npz files and Tweets.csv to Google Colab
+1. Upload pa1_sentiment_analysis_knn.ipynb and all other .npy files, .npz files and Tweets.csv to Google Colab
 2. Run all the code once
